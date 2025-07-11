@@ -15,11 +15,11 @@
 
 ## 🧠 About Me
 
-- 📊 Over 1 year of experience in analytics with a strong background in marketing and operations  
-- 🧪 Working on A/B testing, retention analysis, RFM segmentation, and product funnels  
-- 💬 I enjoy transforming messy data into stories and helping teams make better decisions  
-- 🧳 Looking for opportunities to grow in data science and work in international teams  
-- 🌍 Based in Ukraine, open to relocation or remote work  
+- 📊 Over a year of analytics experience in retention, churn, segmentation, and funnel analysis  
+- 🧪 I experiment with RFM, clustering, forecasting, A/B testing, and product analytics  
+- 🤖 Passionate about LLMs & generative AI – created AI agents, integrated GPT into apps  
+- 🎨 Use Figma to prototype dashboards, user flows, and sleek data stories  
+- 🌍 Based in Ukraine, open to relocation or remote roles 
 
 ---
 
@@ -28,9 +28,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM-GPT--4o-blueviolet?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 
 ---
@@ -48,14 +49,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegreen212&layout=compact&theme=radical" width="50%"/>
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orangegreen212&theme=react-dark" />
 </p>
 
 ---
