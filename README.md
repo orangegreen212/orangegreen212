@@ -36,29 +36,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=orangegreen212&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=orangegreen212&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
-</p>
-
----
-
 ## 🗺️ Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegreen212&layout=compact&theme=radical" width="50%"/>
-</p>
-
----
-
-## 🎨 Example Project Snapshot
-
-> Add an image/gif from one of your projects below.
-
-<p align="center">
-  <img src="https://github.com/yourusername/your-project-name/raw/main/preview.gif" width="70%" alt="Project Preview"/>
 </p>
 
 ---
