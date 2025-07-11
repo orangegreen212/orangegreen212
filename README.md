@@ -38,8 +38,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=orangegreen212&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=orangegreen212&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 🗺️ Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangegreen212&layout=compact&theme=radical" width="50%"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orangegreen212&theme=react-dark" />
 </p>
 
 ---
@@ -72,9 +72,9 @@
 
 ## 📫 How to reach me
 
-- 📧 Email: your.email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- 🌐 [Portfolio](https://your-portfolio-site.com)
+- 📧 Email: olga.buckeye@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/olyashaptala)  
+- 🌐 [Portfolio](https://github.com/orangegreen212/orangegreen212)
 
 ---
 
