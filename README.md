@@ -23,21 +23,16 @@
 
 ---
 
-## 📂 My Projects  
+## 📂 My Projects  (some of)
 
 - 📈 [Tableau Public Dashboards](https://public.tableau.com/app/profile/olay/vizzes)  
-- 📊[Bike Share Demand Analysis and Forecasting](https://github.com/orangegreen212/Bike_share_demand_project)  
+- 📊 [Bike Share Demand Analysis and Forecasting](https://github.com/orangegreen212/Bike_share_demand_project)  
 - 🤖 [AI Marketing Agent: Segmentation, RFM Analysis & GPT Integration](https://github.com/orangegreen212/AI-Marketing-Agent-)  
 - 📊 [SQL-Based Analysis of YouTube Video Performance](https://github.com/orangegreen212/SQL-Portfolio-YOUTUBE-STATISTICS)
-- 🎬 PyTorch-based Sentiment Analysis on Movie Reviews (https://github.com/orangegreen212/Sentiment-Analysis-LTSM-and-BERT-Model)
-- 
+- 🎬 [PyTorch-based Sentiment Analysis on Movie Reviews](https://github.com/orangegreen212/Sentiment-Analysis-LTSM-and-BERT-Model )
 
 ---
 
-⭐ Always curious. Always learning. Always ready to dig into the data.
-
-
----
 
 ## 🚀 Tech Stack
 
