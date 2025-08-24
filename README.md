@@ -6,20 +6,36 @@
 
 <p align="center">
   🎯 Data Analyst & Aspiring Data Scientist<br>
-  🔍 Passionate about extracting insights from data and solving real-world problems<br>
-  🛠️ Skilled in Python, SQL, Tableau, Excel, Google Sheets, Power BI<br>
-  🚀 Currently exploring forecasting, clustering, and recommendation systems
+  🔍 Turning raw data into clear insights & decisions<br>
+  🛠️ Python • SQL • Tableau • Excel • Google Analytics<br>
+  🚀 Currently exploring forecasting, clustering & recommendation systems
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me  
 
-- 📊 Over a year of analytics experience in retention, churn, segmentation, and funnel analysis  
-- 🧪 I experiment with RFM, clustering, forecasting, A/B testing, and product analytics  
-- 🤖 Passionate about LLMs & generative AI – created AI agents, integrated GPT into apps  
-- 🎨 Use Figma to prototype dashboards, user flows, and sleek data stories  
-- 🌍 Based in Ukraine, open to relocation or remote roles 
+- 📊 1+ year of hands-on analytics experience (retention, churn, segmentation, funnel analysis)  
+- 🧪 Practice with **RFM**, **clustering**, **forecasting**, **A/B testing**, and product analytics  
+- 🤖 Fascinated by **LLMs & Generative AI** – built AI agents for my demands
+- 🎨 Love creating sleek, visual data stories 
+- 🌍 Based in Ukraine, open to relocation or remote roles  
+
+---
+
+## 📂 My Projects  
+
+- 📈 [Tableau Public Dashboards](https://public.tableau.com/app/profile/olay/vizzes)  
+- 📊[Bike Share Demand Analysis and Forecasting](https://github.com/orangegreen212/Bike_share_demand_project)  
+- 🤖 [AI Marketing Agent: Segmentation, RFM Analysis & GPT Integration](https://github.com/orangegreen212/AI-Marketing-Agent-)  
+- 📊 [SQL-Based Analysis of YouTube Video Performance](https://github.com/orangegreen212/SQL-Portfolio-YOUTUBE-STATISTICS)
+- 🎬 PyTorch-based Sentiment Analysis on Movie Reviews (https://github.com/orangegreen212/Sentiment-Analysis-LTSM-and-BERT-Model)
+- 
+
+---
+
+⭐ Always curious. Always learning. Always ready to dig into the data.
+
 
 ---
 
@@ -31,7 +47,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLM-GPT--4o-blueviolet?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 
 ---
